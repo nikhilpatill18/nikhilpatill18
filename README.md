@@ -1,4 +1,3 @@
-![My Coding Journey](https://media.giphy.com/media/12345abcdef/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Patil Nikhil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
